@@ -44,7 +44,7 @@ I am a Full Stack Developer <MERN> <img src="https://media.giphy.com/media/WUlpl
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?merabetmohamedmalih&style=flat-square&color=blue" alt=""/>
-<iframe src="https://giphy.com/embed/xT9IgzoKnwFNmISR8I" width="480" height="429" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-coding-seamless-xT9IgzoKnwFNmISR8I">via GIPHY</a></p>
+
 
 
 <!--
