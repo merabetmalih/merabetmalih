@@ -45,12 +45,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 <img src="https://komarev.com/ghpvc/?merabetmohamedmalih&style=flat-square&color=blue" alt=""/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merabetmohamedmalih&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merabetmalih&layout=compact&theme=vision-friendly-dark)](https://github.com/merabetmalih/github-readme-stats)
 
 
 
 <!--
-**merabetmohamedmalih/merabetmohamedmalih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**merabetmalih/merabetmalih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
