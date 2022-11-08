@@ -29,8 +29,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
   
 ### :fire: My Stats :
+
   https://github-readme-streak-stats.herokuapp.com/?merabetmohamedmalih 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=merabetmohamedmalih&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=merabetmalih)](https://git.io/streak-stats)(https://git.io/streak-stats)
 <div id="badges" align="center"> 
   <h1> how to reach me </h1>
   <a href="https://www.linkedin.com/in/malihmaliho/">
