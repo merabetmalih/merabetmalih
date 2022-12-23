@@ -3,12 +3,12 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Algeria.
+I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Working From France.
 
 - 🔭 I'm currently working on graduate Project  with labotoray LIRMM Montpellier France
 - 🌱 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - :zap:  In my free time, I solve problems on GeeksforGeeks and read tech articles.
-- 💬 Ask me about MSA Ecommerce Node-js Spring-boot React Kotlin 
+- 💬 Ask me about micro service architecture Ecommerce Node JS / express js / Spring Boot / Mongodb/PLSQL/postgres/ React /Kotlin 
   ### :hammer_and_wrench: Languages and Tools :
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
